@@ -1,4 +1,4 @@
-# 💳 Bank Management System (Java Swing + MySQL + JDBC)
+# 💳 Desktop ATM Simulation (JFrame + MySQL + JDBC)
 
 A Java-based desktop application that simulates an **ATM and bank management system**.  
 It allows users to create bank accounts, log in, perform transactions (deposit, withdraw, fast cash), check balance, change PIN, and view mini statements.
